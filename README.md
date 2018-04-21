@@ -17,3 +17,9 @@ A project for the course Introduction to Machine Learning. All students were ask
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
 
 ![alt text](https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png)
+
+## Neural Style Transfer
+
+For the course deep learning I worked on a paper researching the optimal selection of hidden layers to create the most appealing images while speeding up the process of optimization. I used some of the code [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and mostly worked on researching which style layers performed best in the neural style transfer task. Notebook will follow. 
+
+![alt text](https://github.com/MaartenGr/Projects/blob/master/Images/face.gif)
