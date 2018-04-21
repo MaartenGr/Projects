@@ -22,6 +22,6 @@ A project for the course Introduction to Machine Learning. All students were ask
 
 For the course deep learning I worked on a paper researching the optimal selection of hidden layers to create the most appealing images while speeding up the process of optimization. I used some of the code [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and mostly worked on researching which style layers performed best in the neural style transfer task. Notebook will follow. 
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/face.gif" width="160" height="240" />
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="160" height="240" />
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/face.gif" width="160" height="240" /> <img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="160" height="240" />
 
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
