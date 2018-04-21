@@ -24,4 +24,4 @@ For the course deep learning I worked on a paper researching the optimal selecti
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/face.gif" width="160" height="240" /> <img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="594" height="290"/>
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/face.gif" width="160" height="240" /> <img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="493" height="240"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/face.gif" width="160" height="240" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="493" height="240"/>
