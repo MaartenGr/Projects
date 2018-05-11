@@ -30,5 +30,4 @@ For the course Business Analytics I worked on the following problem. An auctione
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/classifiers.jpg" width="600"/> <img src="https://github.com/MaartenGr/Projects/blob/master/Images/heuristic.jpg" width="600"/>
-
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png">
