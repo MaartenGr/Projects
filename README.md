@@ -24,6 +24,9 @@ For the course Strategy and Business Models I worked on analyzing Apple Store da
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/logistical.png" width="594" height="290"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/truncated.png" width="594" height="290"/>
+
 ## Neural Style Transfer
 
 For the course deep learning I worked on a paper researching the optimal selection of hidden layers to create the most appealing images while speeding up the process of optimization. I used some of the code [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and mostly worked on researching which style layers performed best in the neural style transfer task. Notebook will follow. 
