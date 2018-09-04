@@ -42,6 +42,5 @@ A project for the course Introduction to Machine Learning. All students were ask
 
 ## To Be Added
 * Package used for analysis of whatsapp messages (with code)
-* Analysis of Apple App Store Data (Strategy and business models; with code)
 * Description of project for TomTom (Check NDA for confidential information; definitely no code!)
 * Description of project for Netscalers (Check NDA for confidential information; definitely no code!)
