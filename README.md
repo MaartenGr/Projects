@@ -24,7 +24,7 @@ For the course Strategy and Business Models I worked on analyzing Apple Store da
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="594" height="290"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="700" height="290"/>
 
 ## Neural Style Transfer
 
