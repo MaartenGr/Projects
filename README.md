@@ -10,14 +10,6 @@ A project for the course Business Analytics in which we were asked to optimize a
 
 ![alt text](https://media.giphy.com/media/FDHO8sbi4hl8qsABDv/giphy.gif)
 
-## Predicting Housing Prices
-
-A project for the course Introduction to Machine Learning. All students were asked to take part into the following kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/). In order to get the highest grade for the course you simply had to end up at the highest position of your class. I scored 1st within the class and 33th on the leaderbord. I averaged the results of XGboost, Lasso, ElasticNet, Ridge and Gradient Boosting Regressor in order to get the best results. All feature engineering can be found in the notebook.
-
-[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
-
-![alt text](https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png)
-
 ## Predicting and Optimizing Auction Prices
 
 For the course Business Analytics I worked on the following problem. An auctioneer would like to know if it is possible to predict how well a certain item in an auction will do. If yes, can you then change the Starting Price of an item in such a way that it will result in the highest possible outcome of that item. Thus, I started with predicting whether an item will be sold for more than its estimated value or not (a classification problem) and validated using Leave-One-Out CV (leave one auction out). Then, I optimized one auction that was not previously seen using a Genetic Algorithm and a basic heuristic I constructed myself. I managed to optimize the auction such that more profit could be gained from items in an auction. 
@@ -32,3 +24,16 @@ For the course deep learning I worked on a paper researching the optimal selecti
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="594" height="290"/>
 
+## Predicting Housing Prices
+
+A project for the course Introduction to Machine Learning. All students were asked to take part into the following kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/). In order to get the highest grade for the course you simply had to end up at the highest position of your class. I scored 1st within the class and 33th on the leaderbord. I averaged the results of XGboost, Lasso, ElasticNet, Ridge and Gradient Boosting Regressor in order to get the best results. All feature engineering can be found in the notebook.
+
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
+
+![alt text](https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png)
+
+## To Be Added
+* Package used for analysis of whatsapp messages (with code)
+* Analysis of Apple App Store Data (Strategy and business models; with code)
+* Description of project for TomTom (Check NDA for confidential information; definitely no code!)
+* Description of project for Netscalers (Check NDA for confidential information; definitely no code!)
