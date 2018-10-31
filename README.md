@@ -33,12 +33,6 @@ For the course Strategy and Business Models I worked on analyzing Apple Store da
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="700" height="260"/>
 
-## TomTom Heart Rate Prediction
-
-At TomTom I was in charge of improving the accuracy of heart rates of TomTom's sportwatches. I started with a model trained on a chest heart rate monitor and predicting heart rates that were missing. However, such a model is difficult to put into production and does not allow for additional training. Instead, I identified when heart errors would take place (see image below). The signal strength of the green light at the bottom of heart rate sensors seemed to be the culprit. I used good signal strength heart rates as my training data and predicted heart rates with a poor light signal. The result was a 30% increase in accuracy of heart rate compared to a moving average baseline. 
-
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/tomtom.png"/>
-
 ## Neural Style Transfer
 
 For the course deep learning I worked on a paper researching the optimal selection of hidden layers to create the most appealing images while speeding up the process of optimization. I used some of the code [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and mostly worked on researching which style layers performed best in the neural style transfer task. Notebook will follow. 
