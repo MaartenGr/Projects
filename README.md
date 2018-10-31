@@ -47,7 +47,12 @@ A project for the course Introduction to Machine Learning. All students were ask
 
 ![alt text](https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png)
 
+## TomTom Heart Rate Prediction
+
+At TomTom I was in charge of improving the accuracy of heart rates of TomTom's sportwatches. I started with a model trained on a chest heart rate monitor and predicting heart rates that were missing. However, such a model is difficult to put into production and does not allow for additional training. Instead, I identified when heart errors would take place (see image below). The signal strength of the green light at the bottom of heart rate sensors seemed to be the culprit. I used good signal strength heart rates as my training data and predicted heart rates with a poor light signal. The result was a 30% increase in accuracy of heart rate compared to a moving average baseline. 
+
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/tomtom.png"/>
+
 ## To Be Added
 * Package used for analysis of whatsapp messages (with code)
-* Description of project for TomTom (Check NDA for confidential information; definitely no code!)
 * Description of project for Netscalers (Check NDA for confidential information; definitely no code!)
