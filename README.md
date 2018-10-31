@@ -47,7 +47,7 @@ A project for the course Introduction to Machine Learning. All students were ask
 
 ![alt text](https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png)
 
-# fitbit
+## FitBit
 
 During my master Data Science and Entrepreneurship I was looking at various ways of leveraging data for the purpose of entrepreneurship. I realized that my FitBit wasn't all that accurate and at times displayed weird values. For that reason I decided to create a model that could predict what my heart rate would have been if it were missing (e.g. due to a bad signal). 
 
@@ -59,5 +59,4 @@ This was the very first project I did during the pre-master. Looking back, there
 
 
 ## To Be Added
-* Package used for analysis of whatsapp messages (with code)
 * Description of project for Netscalers (Check NDA for confidential information; definitely no code!)
