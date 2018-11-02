@@ -5,7 +5,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
 ## NLP: Analyzing Whats-App Messages
 I wanted to surprise my fiancee at our wedding with a thorough, but sweet analysis of our relationship. For this I created a package that allows you to analyze your whatsapp messages: sentiment analysis, unique words (by TF-IDF like scheme), topic modeling, wordclouds, etc. Working with text was something that we did not get in the master and for that reason I wanted to get some experience with the subject. 
 
-[Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
+[Repository](https://github.com/MaartenGr/soan)[Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
 <img src="https://github.com/MaartenGr/soan/blob/master/reddit.png"/>
 
@@ -53,7 +53,7 @@ During my master Data Science and Entrepreneurship I was looking at various ways
 
 This was the very first project I did during the pre-master. Looking back, there are some things I could have done differently. For example, I did a simple 10-fold CV to test my models which might lead to overfitting as the folds are chosen randomly.
 
-[Github](https://github.com/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb)
+[Github](https://github.com/MaartenGr/fitbit/) [Github](https://github.com/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb)
 
 <img src="https://github.com/MaartenGr/fitbit/blob/master/fitbit.png"/>
 
