@@ -2,7 +2,7 @@
 
 This portfolio consists of several notebooks and projects illustrating the work I have done during my studies (MSc Data Science & Entrepreneurship). It should be noted that some notebooks were not part of my master which I created merely to educate myself. 
 
-## NLP: Analyzing Whats-App Messages
+## NLP: Analyzing WhatsApp Messages
 I wanted to surprise my fiancee at our wedding with a thorough, but sweet analysis of our relationship. For this I created a package that allows you to analyze your whatsapp messages: sentiment analysis, unique words (by TF-IDF like scheme), topic modeling, wordclouds, etc. Working with text was something that we did not get in the master and for that reason I wanted to get some experience with the subject. 
 
 [Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
