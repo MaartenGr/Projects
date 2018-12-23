@@ -44,6 +44,8 @@ A safety factor Z affecting the forecast error received from predictions (using 
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png"/>
+
 ## Neural Style Transfer
 
 For the course deep learning I worked on a paper researching the optimal selection of hidden layers to create the most appealing images while speeding up the process of optimization. I used some of the code [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and mostly worked on researching which style layers performed best in the neural style transfer task. Notebook will follow. 
