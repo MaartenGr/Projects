@@ -9,6 +9,9 @@ I wanted to surprise my fiancee at our wedding with a thorough, but sweet analys
 
 <img src="https://github.com/MaartenGr/soan/blob/master/reddit.png"/>
 
+
+
+
 ## Optimize Emté Routes
 
 A project for the course Business Analytics in which we were asked to optimize a certain number of managers visiting a set of cities in the most optimal way. There were 133 cities that needed to be visited. The maximum distance for a manager to be traveled was 400km and we had to minimize the total distance traveled (thereby implicitly minimizing the number of managers). Time and capacity constraints were added in later exercises within this project. 
@@ -32,6 +35,14 @@ For the course Strategy and Business Models I worked on analyzing Apple Store da
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="700" height="260"/>
+
+## Predict and optimize demand
+
+The goal of this assignment was to create a simulation model that can be used to check the performance of different methods for calculating the expected demand. A retailer has indicated to wanting a tool that can be used to predict how much of a product is needed to fulfill the demand today and the next day. Actual demand was tracked and provided for 2014-2017.
+
+A safety factor Z affecting the forecast error received from predictions (using XGBoost, LightGBM and CatBoost) was optimized using skopt's bayesian optimization techniques. 
+
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 
 ## Neural Style Transfer
 
