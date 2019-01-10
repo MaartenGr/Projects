@@ -71,7 +71,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
 * Location data, browser search history, mail data, etc.
 * So far, started with visualizing my location data from where I live, Tilburg
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="70%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="30%"/>
 
 ---
 
