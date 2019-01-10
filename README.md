@@ -63,7 +63,9 @@ This portfolio consists of several notebooks and projects illustrating the work 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" width="70%"/>
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
+
 ---
+
 ###  [Google Takeout]()
 * Analyzing my own data provided by Google Takeout
 * Location data, browser search history, mail data, etc.
