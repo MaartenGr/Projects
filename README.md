@@ -5,9 +5,9 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
 * Analyses done on whatsapp messages between me and my fianciee to surprise her with on our wedding
-* Methods::
+* Methods:
   * Sentiment Analysis
-  * Unique words (TF-IDF)
+  * Unique words (using TF-IDF)
   * Topic Modeling
   * Wordclouds, etc.
   
@@ -28,19 +28,26 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Simmulated Annealing
   * Ant Colony Optimization
 
-[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
-
 ![alt text](https://media.giphy.com/media/FDHO8sbi4hl8qsABDv/giphy.gif)
 
----
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
 
-## Predicting and Optimizing Auction Prices
+
+---
+###  [Predicting and Optimizing Auction Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
+* Data received from an auction house and therefore not made public
+* Prediction of value at which an item will be sold to be used as an objective measure
+* Optimize starting price such that predicted value will be as high as possible
+* Methods:
+  * Classification (KNN, LightGBM, RF, XGBoost, etc.)
+  * Cross-validation based on LOO CV (leave one auction out)
+  * Optimization (Genetic Algorithms) 
 
 An auctioneer would like to know if it is possible to predict how well a certain item in an auction will do. If yes, can you then change the Starting Price of an item in such a way that it will result in the highest possible outcome of that item. Thus, I started with predicting whether an item will be sold for more than its estimated value or not (a classification problem) and validated using Leave-One-Out CV (leave one auction out). Then, I optimized one auction that was not previously seen using a Genetic Algorithm and a basic heuristic I constructed myself. I managed to optimize the auction such that more profit could be gained from items in an auction. 
 
-[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
-
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png">
+
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
 
 ---
 
