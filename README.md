@@ -11,15 +11,22 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Topic Modeling
   * Wordclouds, etc.
   
-<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="50%">
+<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="70%">
 
 [Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
 ---
 
-## Optimize Emté Routes
-
-A project for the course Business Analytics in which we were asked to optimize a certain number of managers visiting a set of cities in the most optimal way. There were 133 cities that needed to be visited. The maximum distance for a manager to be traveled was 400km and we had to minimize the total distance traveled (thereby implicitly minimizing the number of managers). Time and capacity constraints were added in later exercises within this project. 
+###  [Optimizing Emté Routes](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
+* Project for the course Business Analytics in the master
+* Optimization of managers visiting a set of cities
+* Total of 133 cities, max distance 400km with time and capacity constraints
+* Thus, a vehicle routing problem
+* Methods:
+  * Integer Linear Programming
+  * Tabu Search
+  * Simmulated Annealing
+  * Ant Colony Optimization
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
 
