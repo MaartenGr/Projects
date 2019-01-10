@@ -5,6 +5,8 @@ This portfolio consists of several notebooks and projects illustrating the work 
 ---
 
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
+[Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
+
 * Created a package that allows in-depth analyses on whatsapp conversations
 * Analyses were initially done on whatsapp messages between me and my fianciee to surprise her with on our wedding
 * Visualizations were done in such a way that it would make sense for someone not familiar with data science
@@ -12,7 +14,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   
 <img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="70%"/>
 
-[Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
+
 
 ---
 
