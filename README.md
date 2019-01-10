@@ -5,7 +5,9 @@ This portfolio consists of several notebooks and projects illustrating the work 
 ---
 
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
-* Analyses done on whatsapp messages between me and my fianciee to surprise her with on our wedding
+* Created a package that allows in-depth analyses on whatsapp conversations
+* Analyses were initially done on whatsapp messages between me and my fianciee to surprise her with on our wedding
+* Visualizations were done in such a way that it would make sense for someone not familiar with data science
 * Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
   
 <img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="70%"/>
@@ -67,7 +69,6 @@ This portfolio consists of several notebooks and projects illustrating the work 
 ### [Neural Style Transfer]()
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
 * Code is not yet provided as I used most of the following code from [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and I merely explored different layers
-For the course deep learning I worked on a paper researching the optimal selection of hidden layers to create the most appealing images while speeding up the process of optimization. I used some of the code [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and mostly worked on researching which style layers performed best in the neural style transfer task. Notebook will follow. 
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="594" height="290"/>
 
