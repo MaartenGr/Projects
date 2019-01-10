@@ -91,13 +91,18 @@ For the course deep learning I worked on a paper researching the optimal selecti
 
 ---
 
-## Predicting Housing Prices 
+###  [Predicting Housing Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
+* Project for the course Machine Learning
+* Participation of the kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/)
+* We were graded on leaderboard scores and I scored 1st of the class with position 33th of the leaderboard
+* I used a weighted average of XGBoost, Lasso, ElasticNet, Ridge and Gradient Boosting Regressor
+* The focus of this project was mostly on feature engineering
 
-A project for the course Introduction to Machine Learning. All students were asked to take part into the following kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/). In order to get the highest grade for the course you simply had to end up at the highest position of your class. I scored 1st within the class and 33th on the leaderboard. I used a weighted average of the results of XGboost, Lasso, ElasticNet, Ridge and Gradient Boosting Regressor in order to get the best results. All feature engineering can be found in the notebook.
-
-[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png" width="50%"/>
 
 ![alt text](https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png)
+
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
 
 ---
 
