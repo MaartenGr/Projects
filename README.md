@@ -45,7 +45,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Optimization (Genetic Algorithms) 
   * Python
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png" width="65%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png" width="70%"/>
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
 
@@ -60,7 +60,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Hurdle model
   * Python, R
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="65%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="70%"/>
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 
@@ -68,27 +68,23 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ###  [Predict and optimize demand](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 * Part of the course Data-Driven SCM
-* Predicting demand 
-Predicting demand and optimizing order quantity based on previously seen demand
+* Optimizing order quantity based on predicted demand using machine learning methods
 * Simulation model was created to check performance of method calculating expected demand
-* Prediction demand of the days
+* Additional weather features were included
 * Methods:
   * Regression (XGBoost, LightGBM and CatBoost)
   * Bayesian Optimization (Skopt)
   
-The goal of this assignment was to create a simulation model that can be used to check the performance of different methods for calculating the expected demand. A retailer has indicated to wanting a tool that can be used to predict how much of a product is needed to fulfill the demand today and the next day. Actual demand was tracked and provided for 2014-2017.
-
-A safety factor Z affecting the forecast error received from predictions (using XGBoost, LightGBM and CatBoost) was optimized using skopt's bayesian optimization techniques. 
-
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" width="50%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" width="70%"/>
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 
 
 ---
 
-## Neural Style Transfer
-
+### [Neural Style Transfer]()
+* For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
+* Code is not yet provided as I used most of the following code from [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and I merely explored different layers
 For the course deep learning I worked on a paper researching the optimal selection of hidden layers to create the most appealing images while speeding up the process of optimization. I used some of the code [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and mostly worked on researching which style layers performed best in the neural style transfer task. Notebook will follow. 
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="594" height="290"/>
