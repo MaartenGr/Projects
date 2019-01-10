@@ -66,8 +66,16 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
-## Predict and optimize demand
-
+###  [Predict and optimize demand](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
+* Part of the course Data-Driven SCM
+* Predicting demand 
+Predicting demand and optimizing order quantity based on previously seen demand
+* Simulation model was created to check performance of method calculating expected demand
+* Prediction demand of the days
+* Methods:
+  * Regression (XGBoost, LightGBM and CatBoost)
+  * Bayesian Optimization (Skopt)
+  
 The goal of this assignment was to create a simulation model that can be used to check the performance of different methods for calculating the expected demand. A retailer has indicated to wanting a tool that can be used to predict how much of a product is needed to fulfill the demand today and the next day. Actual demand was tracked and provided for 2014-2017.
 
 A safety factor Z affecting the forecast error received from predictions (using XGBoost, LightGBM and CatBoost) was optimized using skopt's bayesian optimization techniques. 
