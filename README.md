@@ -11,7 +11,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Topic Modeling
   * Wordclouds, etc.
   
-<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png"/ width="50%">
+<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="50%">
 
 [Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
