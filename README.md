@@ -80,9 +80,10 @@ The goal of this assignment was to create a simulation model that can be used to
 
 A safety factor Z affecting the forecast error received from predictions (using XGBoost, LightGBM and CatBoost) was optimized using skopt's bayesian optimization techniques. 
 
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" width="50%"/>
+
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png"/>
 
 ---
 
