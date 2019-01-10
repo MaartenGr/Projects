@@ -72,7 +72,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
 * So far, started with visualizing my location data from where I live, Tilburg
 * Notebook will follow
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="30%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="45%"/>
 
 ---
 
