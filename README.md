@@ -4,11 +4,14 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
+* Analyses done on whatsapp messages between me and my fianciee to surprise her with on our wedding
+* Methods used:
+** test
 I wanted to surprise my fiancee at our wedding with a thorough, but sweet analysis of our relationship. For this I created a package that allows you to analyze your whatsapp messages: sentiment analysis, unique words (by TF-IDF like scheme), topic modeling, wordclouds, etc. Working with text was something that we did not get in the master and for that reason I wanted to get some experience with the subject. 
 
-[Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
-
 <img src="https://github.com/MaartenGr/soan/blob/master/reddit.png"/>
+
+[Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
 ---
 
