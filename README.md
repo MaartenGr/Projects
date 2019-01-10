@@ -27,6 +27,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Tabu Search
   * Simmulated Annealing
   * Ant Colony Optimization
+  * Python
 
 ![alt text](https://media.giphy.com/media/FDHO8sbi4hl8qsABDv/giphy.gif)
 
@@ -42,8 +43,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Classification (KNN, LightGBM, RF, XGBoost, etc.)
   * Cross-validation based on LOO CV (leave one auction out)
   * Optimization (Genetic Algorithms) 
-
-An auctioneer would like to know if it is possible to predict how well a certain item in an auction will do. If yes, can you then change the Starting Price of an item in such a way that it will result in the highest possible outcome of that item. Thus, I started with predicting whether an item will be sold for more than its estimated value or not (a classification problem) and validated using Leave-One-Out CV (leave one auction out). Then, I optimized one auction that was not previously seen using a Genetic Algorithm and a basic heuristic I constructed myself. I managed to optimize the auction such that more profit could be gained from items in an auction. 
+  * Python
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png">
 
@@ -51,13 +51,18 @@ An auctioneer would like to know if it is possible to predict how well a certain
 
 ---
 
-## Statistical Analysis using the Hurdle Model
+###  [Statistical Analysis using the Hurdle Model](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
+* Used Apple Store data to analyze which business model aspects influence performance of mobile games
+* Two groups were identified and compared, namley early and later entrants of the market
+* The impact of entry timing and the use of technological innovation was analyzed on performance
+* Methods:
+  * Zero-Inflated Negative Binomial Regression
+  * Hurdle model
+  * Python, R
 
-For the course Strategy and Business Models I worked on analyzing Apple Store data to get insight into what makes an app succesfull. The main research question of the paper is which business model aspects influence the performance of mobile games in the first five months after they are published between early and later entrants of the market. Because of the highly competitive mobile game market, this study aims to provide guidelines to developers and address the research gap in the literature on mobile app market, namely the impact of entry timing and the use of technological innovation on the performance for mobile games. 
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="50%"/>
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
-
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="700" height="260"/>
 
 ---
 
