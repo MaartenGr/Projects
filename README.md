@@ -64,7 +64,18 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 
+
 ---
+###  [Google Takeout]()
+* Analyzing my own data provided by Google Takeout
+* Location data, browser search history, mail data, etc.
+* So far, started with visualizing my location data from where I live, Tilburg
+
+<img src="https://github.com/MaartenGr/fitbit/blob/master/location.gif" width="70%"/>
+
+---
+
+
 
 ### [Neural Style Transfer]()
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
