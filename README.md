@@ -11,7 +11,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Topic Modeling
   * Wordclouds, etc.
   
-<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="70%">
+<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="70%"/>
 
 [Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
@@ -45,7 +45,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Optimization (Genetic Algorithms) 
   * Python
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png">
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png" width="65%"/>
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
 
@@ -60,7 +60,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
   * Hurdle model
   * Python, R
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="50%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="65%"/>
 
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 
