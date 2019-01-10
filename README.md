@@ -2,6 +2,7 @@
 
 This portfolio consists of several notebooks and projects illustrating the work I have done during my studies (MSc Data Science & Entrepreneurship). It should be noted that some notebooks were not part of my master which I created merely to educate myself. 
 
+---
 
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
 * Analyses done on whatsapp messages between me and my fianciee to surprise her with on our wedding
