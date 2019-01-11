@@ -79,6 +79,12 @@ This portfolio consists of several notebooks and projects illustrating the work 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="30%"/>
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/website_visits.png" width="30%"/>
 
+<p float="left">
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="30%"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/website_visits.png" width="50%"/>
+</p>
+
+
 ---
 
 ### [Neural Style Transfer]()
