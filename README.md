@@ -68,11 +68,13 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
-###  [Google Takeout]()
+###  [Google Takeout](https://github.com/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb)
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb)
+
 * Analyzing my own data provided by Google Takeout
 * Location data, browser search history, mail data, etc.
 * So far, started with visualizing my location data from where I live, Tilburg
-* Notebook will follow
+* Code to create animation will follow
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="40%"/>
 
