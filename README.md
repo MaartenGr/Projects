@@ -73,10 +73,10 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 * Analyzing my own data provided by Google Takeout
 * Location data, browser search history, mail data, etc.
-* So far, started with visualizing my location data from where I live, Tilburg
+* Code to analyze browser history is included
 * Code to create animation will follow
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="40%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="30%"/>
 
 ---
 
