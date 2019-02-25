@@ -117,6 +117,17 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
+## Contact
+If you are looking to contact me personally, please do so via E-mail or Linkedin:
+- E-mail: maartengrootendorst@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mgrootendorst/)
+
+If you are interested in working together with a talented group of data scientists,
+please contact us at:
+- E-mail: contact@emset.net
+- Website : emset.net
+
+---
+
 ## To Be Added
-* Description of project for Netscalers
-* Smaller projects together
+* Data Visualizations / Qwixx viz
