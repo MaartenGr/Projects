@@ -122,6 +122,8 @@ If you are looking to contact me personally, please do so via E-mail or Linkedin
 - E-mail: maartengrootendorst@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mgrootendorst/)
 
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/logo.PNG"/>
+
 If you are interested in working together with a talented group of data scientists,
 please contact us at:
 - E-mail: contact@emset.net
