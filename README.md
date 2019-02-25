@@ -125,7 +125,7 @@ If you are looking to contact me personally, please do so via E-mail or Linkedin
 If you are interested in working together with a talented group of data scientists,
 please contact us at:
 - E-mail: contact@emset.net
-- Website : emset.net
+- Website : https://www.emset.net/
 
 ---
 
