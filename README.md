@@ -135,4 +135,5 @@ please contact us at:
 
 ## To Be Added
 * Data Visualizations / Qwixx viz
+* Typing visualization
 * Master thesis after publication
