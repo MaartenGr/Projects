@@ -84,6 +84,18 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
+###  [Qwixx Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb)
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb)
+
+* Visualized 16 games I played with my wife
+* The result is a heatmap in using the scorecard of Qwixx
+* All rights belong to Qwixx and the scorecard used for this visualization was retrieved from:
+  * https://commons.wikimedia.org/wiki/File:Qwixx_scorecard_nofonts.svg
+
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/Qwixx.png" width="70%"/>
+
+---
+
 ### [Neural Style Transfer]()
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
 * Code is not yet provided as I used most of the following code from [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and I merely explored different layers
