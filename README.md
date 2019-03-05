@@ -92,7 +92,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
 * All rights belong to Qwixx and the scorecard used for this visualization was retrieved from:
   * https://commons.wikimedia.org/wiki/File:Qwixx_scorecard_nofonts.svg
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/Qwixx.png" width="70%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/Qwixx.png" width="50%"/>
 
 ---
 
