@@ -89,7 +89,8 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 * Visualized 16 games I played with my wife
 * The result is a heatmap in using the scorecard of Qwixx
-* All rights belong to Qwixx and the scorecard used for this visualization was retrieved from:
+* All rights belong to Qwixx (Nuernberger-Spielkarten-Verlag GmbH) 
+* The scorecard used for this visualization was retrieved from:
   * https://commons.wikimedia.org/wiki/File:Qwixx_scorecard_nofonts.svg
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Qwixx.png" width="50%"/>
