@@ -97,6 +97,18 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
+###  [Academic Journey Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb)
+[Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb)
+
+* A visualization of my 9! year academic journey
+* My grades and average across six educational programs versus the average of all other students in the same classes. 
+* Unfortunately, no data on the students’ average grade was available for classes in my bachelor. 
+* Grades range from 0 to 10 with 6 being a passing grade. 
+* Lastly, Cum Laude is the highest academic distinction for the master’s program I followed. 
+
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="70%"/>
+
+
 ### [Neural Style Transfer]()
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
 * Code is not yet provided as I used most of the following code from [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and I merely explored different layers
