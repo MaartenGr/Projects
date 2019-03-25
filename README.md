@@ -169,6 +169,5 @@ please contact us at:
 ---
 
 ## To Be Added
-* Data Visualizations / Qwixx viz
-* Typing visualization
+* Updated grade visualization
 * Master thesis after publication
