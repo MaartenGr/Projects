@@ -4,6 +4,18 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
+###  [Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
+[Repository](https://github.com/MaartenGr/VLAC) 
+
+* It leverages clusters of word embeddings (i.e., concepts) to create features from a collection of documents
+allowing for classification of documents
+* Inspiration was drawn from VLAD, which is a feature generation method for image classification
+* Results and data are included in the repo
+  
+<img src="https://github.com/MaartenGr/VLAC/blob/master/vlac.png" width="70%"/>
+
+---
+
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
 [Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
@@ -63,18 +75,6 @@ This portfolio consists of several notebooks and projects illustrating the work 
 * Methods: Regression (XGBoost, LightGBM and CatBoost), Bayesian Optimization (Skopt)
   
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" width="70%"/>
-
----
-
-###  [Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
-[Repository](https://github.com/MaartenGr/VLAC) 
-
-* It leverages clusters of word embeddings (i.e., concepts) to create features from a collection of documents
-allowing for classification of documents
-* Inspiration was drawn from VLAD, which is a feature generation method for image classification
-* Results and data are included in the repo
-  
-<img src="https://github.com/MaartenGr/VLAC/blob/master/vlac.png" width="70%"/>
 
 ---
 
