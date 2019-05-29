@@ -12,7 +12,7 @@ allowing for classification of documents
 * Inspiration was drawn from VLAD, which is a feature generation method for image classification
 * Results and data are included in the repo
   
-<img src="https://github.com/MaartenGr/VLAC/blob/master/vlac.png" width="70%"/>
+<img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" width="70%"/>
 
 ---
 
