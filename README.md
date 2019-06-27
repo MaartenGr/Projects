@@ -128,7 +128,7 @@ allowing for classification of documents
 
 
 <p float="left">
-  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="70%"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="50%"/>
   <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades_d3.png" width="30%"/>
 </p>
 
