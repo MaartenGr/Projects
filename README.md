@@ -126,8 +126,11 @@ allowing for classification of documents
 * Grades range from 0 to 10 with 6 being a passing grade. 
 * Lastly, Cum Laude is the highest academic distinction for the master’s program I followed. 
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="70%"/>
 
+<p float="left">
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="70%"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades_d3.png" width="30%"/>
+</p>
 
 ### [Neural Style Transfer]()
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
