@@ -19,9 +19,9 @@ This portfolio consists of several notebooks and projects illustrating the work 
    * [Predicting Housing Prices](#housing)
    * [Analyzing FitBit Data](#fitbit)
 <!--te-->
----
+
 ## Projects
----
+
 <a name="vlac"/></a>
 ###  [Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
 [Repository](https://github.com/MaartenGr/VLAC) 
