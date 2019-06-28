@@ -4,15 +4,12 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
-##### Table of Contents
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 
-
-
 ---
-<a name="headers"/>
+<a name="headers"/></a>
 ###  [Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
 [Repository](https://github.com/MaartenGr/VLAC) 
 
