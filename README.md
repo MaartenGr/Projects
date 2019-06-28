@@ -2,7 +2,6 @@
 
 This portfolio consists of several notebooks and projects illustrating the work I have done during my studies (MSc Data Science & Entrepreneurship). It should be noted that some notebooks were not part of my master which I created merely to educate myself. 
 
----
 
 ## Table of Contents  
 <!--ts-->
