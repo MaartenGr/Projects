@@ -4,12 +4,25 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 ---
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+## Table of Contents  
+<!--ts-->
+   * [Vectors of Locally Aggregated Concepts](#vlac)
+   * [NLP: Analyzing WhatsApp Messages](#whatsapp)
+   * [Optimizing Emté Routes](#emte)
+   * [Predicting and Optimizing Auction Prices](#auction)
+   * [Statistical Analysis using the Hurdle Model](#hurdle)
+   * [Predict and optimize demand](#demand)
+   * [Analyzing Google Takeout Data](#takeout)
+   * [Cars Dashboard](#cars)
+   * [Qwixx Visualization](#qwixx)
+   * [Academic Journey Visualization](#grades)
+   * [Neural Style Transfer](#style)
+   * [Predicting Housing Prices](#housing)
+   * [Analyzing FitBit Data](#fitbit)
+<!--te-->
 
 ---
-<a name="headers"/></a>
+<a name="vlac"/></a>
 ###  [Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
 [Repository](https://github.com/MaartenGr/VLAC) 
 
@@ -21,7 +34,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" width="70%"/>
 
 ---
-
+<a name="whatsapp"/></a>
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
 [Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
@@ -33,7 +46,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="70%"/>
 
 ---
-
+<a name="emte"/></a>
 ###  [Optimizing Emté Routes](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
 
@@ -46,7 +59,7 @@ allowing for classification of documents
 ![alt text](https://media.giphy.com/media/FDHO8sbi4hl8qsABDv/giphy.gif)
 
 ---
-
+<a name="auction"/></a>
 ###  [Predicting and Optimizing Auction Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
 
@@ -58,7 +71,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png" width="70%"/>
 
 ---
-
+<a name="hurdle"/></a>
 ###  [Statistical Analysis using the Hurdle Model](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 
@@ -70,7 +83,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="70%"/>
 
 ---
-
+<a name="demand"/></a>
 ###  [Predict and optimize demand](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/simulation.ipynb)
 
@@ -83,8 +96,8 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" width="70%"/>
 
 ---
-
-###  [Google Takeout](https://github.com/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb)
+<a name="takeout"/></a>
+###  [Analyzing Google Takeout Data](https://github.com/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/GoogleTakeout.ipynb)
 
 * Analyzing my own data provided by Google Takeout
@@ -99,7 +112,7 @@ allowing for classification of documents
 
 
 ---
-
+<a name="cars"/></a>
 ###  [Cars Dashboard](https://github.com/MaartenGr/cars_dashboard)
 [Github](https://github.com/MaartenGr/cars_dashboard) 
 
@@ -109,7 +122,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/cars_dashboard/blob/master/Images/dashboard.gif"  width="50%"/>
 
 ---
-
+<a name="qwixx"/></a>
 ###  [Qwixx Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/Scorecard.ipynb)
 
@@ -122,7 +135,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Qwixx.png" width="50%"/>
 
 ---
-
+<a name="grades"/></a>
 ###  [Academic Journey Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb)
 
@@ -137,7 +150,7 @@ allowing for classification of documents
   <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="50%"/>
   <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades_d3.png" width="30%"/>
 </p>
-
+<a name="style"/></a>
 ### [Neural Style Transfer]()
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
 * Code is not yet provided as I used most of the following code from [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and I merely explored different layers
@@ -145,7 +158,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="594" height="290"/>
 
 ---
-
+<a name="housing"/></a>
 ###  [Predicting Housing Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb)
 
@@ -158,8 +171,8 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/kaggle.png" width="70%"/>
 
 ---
-
-###  [FitBit](https://github.com/MaartenGr/fitbit/)
+<a name="fitbit"/></a>
+###  [Analyzing FitBit Data](https://github.com/MaartenGr/fitbit/)
 [Repository](https://github.com/MaartenGr/fitbit/) | [Github](https://github.com/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb)
 
 * My first data science project
