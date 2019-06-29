@@ -72,7 +72,7 @@ allowing for classification of documents
 
 ---
 <a name="hurdle"/></a>
-###  [Statistical Analysis using the Hurdle Model](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AuctionAnalysis.ipynb)
+###  [Statistical Analysis using the Hurdle Model](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 [Github](https://github.com/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Projects/blob/master/Notebooks/AppStoreAnalysis.ipynb)
 
 * Used Apple Store data to analyze which business model aspects influence performance of mobile games
