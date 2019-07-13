@@ -8,6 +8,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
    * [Vectors of Locally Aggregated Concepts](#vlac)
    * [NLP: Analyzing WhatsApp Messages](#whatsapp)
    * [Optimizing Emté Routes](#emte)
+   * [Exploring Explainable ML](#explainable)
    * [Predicting and Optimizing Auction Prices](#auction)
    * [Statistical Analysis using the Hurdle Model](#hurdle)
    * [Predict and optimize demand](#demand)
@@ -57,6 +58,18 @@ allowing for classification of documents
 * Methods: Integer Linear Programming, Tabu Search, Simmulated Annealing, Ant Colony Optimization, Python
 
 ![alt text](https://media.giphy.com/media/FDHO8sbi4hl8qsABDv/giphy.gif)
+
+---
+<a name="explainable"/></a>
+###  [Exploring Explainable ML](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
+[Repository](https://github.com/MaartenGr/InterpretableML) | [Github](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
+
+* Explored several methods for opening the black boxes that are tree-based prediction models
+* Models included PDP, LIME, and SHAP
+* Follow this [this](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b) for the corresponding blog post on Towards Data Science
+
+<img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/occupation.png" width="70%"/>
+<img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/shap.PNG" width="70%"/>
 
 ---
 <a name="auction"/></a>
