@@ -61,7 +61,7 @@ allowing for classification of documents
 
 ---
 <a name="explainable"/></a>
-###  [Exploring Explainable ML](https://github.com/MaartenGr/Projects/blob/master/Notebooks/RouteOptimization.ipynb)
+###  [Exploring Explainable ML](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
 [Repository](https://github.com/MaartenGr/InterpretableML) | [Github](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
 
 * Explored several methods for opening the black boxes that are tree-based prediction models
