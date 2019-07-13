@@ -66,7 +66,7 @@ allowing for classification of documents
 
 * Explored several methods for opening the black boxes that are tree-based prediction models
 * Models included PDP, LIME, and SHAP
-* Follow this [this](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b) for the corresponding blog post on Towards Data Science
+* Follow [this](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b) link for the corresponding blog post on Towards Data Science
 
 <img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/occupation.png" width="70%"/>
 <img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/shap.PNG" width="70%"/>
