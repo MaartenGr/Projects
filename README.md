@@ -163,6 +163,9 @@ allowing for classification of documents
   <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="50%"/>
   <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades_d3.png" width="30%"/>
 </p>
+
+---
+
 <a name="style"/></a>
 ### [Neural Style Transfer]()
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
