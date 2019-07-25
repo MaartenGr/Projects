@@ -9,6 +9,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
    * [NLP: Analyzing WhatsApp Messages](#whatsapp)
    * [Optimizing Emté Routes](#emte)
    * [Exploring Explainable ML](#explainable)
+   * [Cluster Analysis: Creating Customer Segments](#clustering)
    * [Predicting and Optimizing Auction Prices](#auction)
    * [Statistical Analysis using the Hurdle Model](#hurdle)
    * [Predict and optimize demand](#demand)
@@ -70,6 +71,17 @@ allowing for classification of documents
 
 <img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/occupation.png" width="70%"/>
 <img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/shap.PNG" width="70%"/>
+
+---
+<a name="clustering"/></a>
+###  [Cluster Analysis: Create, Visualize and Interpret Customer Segments](https://github.com/MaartenGr/CustomerSegmentation/blob/master/Customer%20Segmentation.ipynb)
+[Repository](https://github.com/MaartenGr/CustomerSegmentation) | [Github](https://nbviewer.jupyter.org/github/MaartenGr/CustomerSegmentation/blob/master/Customer%20Segmentation.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
+
+* Explored several methods for creating customer segments; k-Means (Cosine & Euclidean) vs. DBSCAN
+* Applied PCA and t-SNE for the 3 dimensional exploration of clusters
+* Used variance between averages of clusters per variable to detect important differences between clusters
+
+<img src="https://github.com/MaartenGr/CustomerSegmentation/blob/master/dbscan.gif"/>
 
 ---
 <a name="auction"/></a>
