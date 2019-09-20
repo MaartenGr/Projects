@@ -58,7 +58,7 @@ allowing for classification of documents
 * Thus, a vehicle routing problem
 * Methods: Integer Linear Programming, Tabu Search, Simmulated Annealing, Ant Colony Optimization, Python
 
-![alt text](https://media.giphy.com/media/FDHO8sbi4hl8qsABDv/giphy.gif)
+<img src="https://github.com/MaartenGr/Projects/blob/master/dbscan.gif"/>
 
 ---
 <a name="explainable"/></a>
