@@ -180,7 +180,7 @@ allowing for classification of documents
 
 
 <p float="left">
-  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" height="200"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.jpg" height="200"/>
   <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades_d3.png" height="200"/>
 </p>
 
@@ -191,7 +191,7 @@ allowing for classification of documents
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
 * Code is not yet provided as I used most of the following code from [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and I merely explored different layers
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" height="200"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.jpg" height="200"/>
 
 ---
 <a name="housing"/></a>
@@ -216,7 +216,7 @@ allowing for classification of documents
 * Used a simple 10-fold CV with regression techniques to fill missing heart rates
 * There are many things that I would do differently now like using other validation techniques that are not as sensitive to overfitting on timeseries
 
-<img src="https://github.com/MaartenGr/fitbit/blob/master/fitbit.png" height="200"/>
+<img src="https://github.com/MaartenGr/fitbit/blob/master/fitbit.jpg" height="200"/>
 
 ---
 
