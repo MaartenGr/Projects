@@ -27,12 +27,12 @@ This portfolio consists of several notebooks and projects illustrating the work 
 
 <a name="vlac"/></a>
 ###  [Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
-[Repository](https://github.com/MaartenGr/VLAC) 
+[Repository](https://github.com/MaartenGr/VLAC) | [Published Paper](https://www.ecmlpkdd2019.org/downloads/paper/489.pdf) 
 
 * It leverages clusters of word embeddings (i.e., concepts) to create features from a collection of documents
 allowing for classification of documents
 * Inspiration was drawn from VLAD, which is a feature generation method for image classification
-* Results and data are included in the repo
+* The article was published in ECML-PKDD 2019
   
 <img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" height="200"/>
 
@@ -46,7 +46,7 @@ allowing for classification of documents
 * Visualizations were done in such a way that it would make sense for someone not familiar with data science
 * Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
   
-<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" height="200"/>
+<img src="https://github.com/MaartenGr/soan/blob/master/portfolio_soan.png" height="200"/>
 
 ---
 <a name="emte"/></a>
