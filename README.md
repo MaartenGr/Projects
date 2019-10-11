@@ -34,7 +34,7 @@ allowing for classification of documents
 * Inspiration was drawn from VLAD, which is a feature generation method for image classification
 * Results and data are included in the repo
   
-<img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" width="70%"/>
+<img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" height="200"/>
 
 ---
 <a name="whatsapp"/></a>
@@ -46,7 +46,7 @@ allowing for classification of documents
 * Visualizations were done in such a way that it would make sense for someone not familiar with data science
 * Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
   
-<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" width="70%"/>
+<img src="https://github.com/MaartenGr/soan/blob/master/reddit.png" height="200"/>
 
 ---
 <a name="emte"/></a>
@@ -59,7 +59,7 @@ allowing for classification of documents
 * Thus, a vehicle routing problem
 * Methods: Integer Linear Programming, Tabu Search, Simmulated Annealing, Ant Colony Optimization, Python
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/emte.gif"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/emte.gif" height="200"/>
 
 ---
 <a name="explainable"/></a>
@@ -70,8 +70,7 @@ allowing for classification of documents
 * Models included PDP, LIME, and SHAP
 * Follow [this](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b) link for the corresponding blog post on Towards Data Science
 
-<img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/occupation.png" width="70%"/>
-<img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/shap.PNG" width="70%"/>
+<img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/occupation.png" height="200"/>
 
 ---
 <a name="deploy"/></a>
@@ -90,7 +89,7 @@ allowing for classification of documents
 * Applied PCA and t-SNE for the 3 dimensional exploration of clusters
 * Used variance between averages of clusters per variable to detect important differences between clusters
 
-<img src="https://github.com/MaartenGr/CustomerSegmentation/blob/master/dbscan.gif"/>
+<img src="https://github.com/MaartenGr/CustomerSegmentation/blob/master/dbscan.gif" height="200"/>
 
 ---
 <a name="auction"/></a>
@@ -102,7 +101,7 @@ allowing for classification of documents
 * Optimize starting price such that predicted value will be as high as possible
 * Methods: Classification (KNN, LightGBM, RF, XGBoost, etc.), LOO-CV, Genetic Algorithms, Python
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png" width="70%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/auction_result.png" height="200"/>
 
 ---
 <a name="hurdle"/></a>
@@ -114,7 +113,7 @@ allowing for classification of documents
 * The impact of entry timing and the use of technological innovation was analyzed on performance
 * Methods: Zero-Inflated Negative Binomial Regression, Hurdle model, Python, R
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" width="70%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/appstore.png" height="200"/>
 
 ---
 <a name="demand"/></a>
@@ -127,7 +126,7 @@ allowing for classification of documents
 * Additional weather features were included
 * Methods: Regression (XGBoost, LightGBM and CatBoost), Bayesian Optimization (Skopt)
   
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" width="70%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" height="200"/>
 
 ---
 <a name="takeout"/></a>
@@ -140,8 +139,8 @@ allowing for classification of documents
 * Code to create animation will follow
 
 <p float="left">
-  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" width="30%"/>
-  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/website_visits.png" width="40%"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/location.gif" height="200"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/website_visits.png" height="200"/>
 </p>
 
 
@@ -153,7 +152,7 @@ allowing for classification of documents
 * Created a dashboard for the cars dataset using Python, HTML and CSS
 * It allows for several crossfilters (see below)
 
-<img src="https://github.com/MaartenGr/cars_dashboard/blob/master/Images/dashboard.gif"  width="50%"/>
+<img src="https://github.com/MaartenGr/cars_dashboard/blob/master/Images/dashboard.gif" height="200"/>
 
 ---
 <a name="qwixx"/></a>
@@ -166,7 +165,7 @@ allowing for classification of documents
 * The scorecard used for this visualization was retrieved from:
   * https://commons.wikimedia.org/wiki/File:Qwixx_scorecard_nofonts.svg
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/Qwixx.png" width="50%"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/Qwixx.png" height="200"/>
 
 ---
 <a name="grades"/></a>
@@ -181,8 +180,8 @@ allowing for classification of documents
 
 
 <p float="left">
-  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" width="50%"/>
-  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades_d3.png" width="30%"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades.png" height="200"/>
+  <img src="https://github.com/MaartenGr/Projects/blob/master/Images/Grades_d3.png" height="200"/>
 </p>
 
 ---
@@ -192,7 +191,7 @@ allowing for classification of documents
 * For the course deep learning I worked on a paper researching optimal selection of hidden layers to create the most appealing images in neural style transfer while speeding up the process of optimization
 * Code is not yet provided as I used most of the following code from [here](https://harishnarayanan.org/writing/artistic-style-transfer/) and I merely explored different layers
 
-<img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" width="594" height="290"/>
+<img src="https://github.com/MaartenGr/Projects/blob/master/Images/neural_style_transfer.png" height="200"/>
 
 ---
 <a name="housing"/></a>
@@ -217,7 +216,7 @@ allowing for classification of documents
 * Used a simple 10-fold CV with regression techniques to fill missing heart rates
 * There are many things that I would do differently now like using other validation techniques that are not as sensitive to overfitting on timeseries
 
-<img src="https://github.com/MaartenGr/fitbit/blob/master/fitbit.png" width="70%"/>
+<img src="https://github.com/MaartenGr/fitbit/blob/master/fitbit.png" height="200"/>
 
 ---
 
