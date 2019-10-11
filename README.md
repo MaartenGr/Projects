@@ -46,7 +46,7 @@ allowing for classification of documents
 * Visualizations were done in such a way that it would make sense for someone not familiar with data science
 * Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
   
-<img src="https://github.com/MaartenGr/soan/blob/master/portfolio_soan.png" height="200"/>
+<img src="https://github.com/MaartenGr/soan/blob/master/portfolio_soan.jpg" height="200"/>
 
 ---
 <a name="emte"/></a>
