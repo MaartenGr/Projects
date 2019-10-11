@@ -1,6 +1,6 @@
 ## Data Science Portfolio 
 
-This portfolio consists of several notebooks and projects illustrating the work I have done in order to further develop my data science skills. 
+This portfolio consists of several projects illustrating the work I have done in order to further develop my data science skills. 
 
 
 ## Table of Contents  
@@ -10,7 +10,9 @@ This portfolio consists of several notebooks and projects illustrating the work 
    * [Optimizing Emté Routes](#emte)
    * [Exploring Explainable ML](#explainable)
    * [Deploying a Machine Learning Model](#deploy)
+   * [Statistical Cross-Validation Techniques](#crossvalidation)
    * [Cluster Analysis: Creating Customer Segments](#clustering)
+   * [Exploring Advanced Feature Engineering Techniques](#featureengineering)
    * [Predicting and Optimizing Auction Prices](#auction)
    * [Statistical Analysis using the Hurdle Model](#hurdle)
    * [Predict and optimize demand](#demand)
@@ -64,11 +66,11 @@ allowing for classification of documents
 ---
 <a name="explainable"/></a>
 ###  [Exploring Explainable ML](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
-[Repository](https://github.com/MaartenGr/InterpretableML) | [Github](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
+[Repository](https://github.com/MaartenGr/InterpretableML) | [Notebook](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) |
+[Medium](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b) 
 
 * Explored several methods for opening the black boxes that are tree-based prediction models
 * Models included PDP, LIME, and SHAP
-* Follow [this](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b) link for the corresponding blog post on Towards Data Science
 
 <img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/occupation.png" height="200"/>
 
@@ -78,18 +80,46 @@ allowing for classification of documents
 [Repository](https://github.com/MaartenGr/ML-API) | [Medium](https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf) 
 
 * Developed a set of steps necessary to quickly develop your machine learning model
-* The repository contains all code necessary (including dockerfile) and see the medium link for the full article
+* Used a combination of FastAPI, Uvicorn and Gunicorn to lay the foundation of the API
+* The repository contains all code necessary (including dockerfile)
+
+<img src="https://github.com/MaartenGr/ML-API/blob/master/deploy.jpg" height="200"/>
+
+---
+
+<a name="crossvalidation"/></a>
+###  [Statistical Cross-Validation Techniques](https://github.com/MaartenGr/validation)
+[Repository](https://github.com/MaartenGr/validation) | [Notebook](https://github.com/MaartenGr/validation/blob/master/Validation.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/validation/blob/master/Validation.ipynb) | [Medium](https://towardsdatascience.com/validating-your-machine-learning-model-25b4c8643fb7) 
+
+* Dived into several more in-depth techniques for validating a model
+* Statistical methods were explored for comparing models including the Wilcoxon signed-rank test, McNemar's test, 5x2CV paired t-test and 5x2CV combined F test
+
+<img src="https://github.com/MaartenGr/validation/blob/master/Images/validation.png" height="200"/>
 
 ---
 <a name="clustering"/></a>
 ###  [Cluster Analysis: Create, Visualize and Interpret Customer Segments](https://github.com/MaartenGr/CustomerSegmentation/blob/master/Customer%20Segmentation.ipynb)
-[Repository](https://github.com/MaartenGr/CustomerSegmentation) | [Github](https://nbviewer.jupyter.org/github/MaartenGr/CustomerSegmentation/blob/master/Customer%20Segmentation.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
+[Repository](https://github.com/MaartenGr/CustomerSegmentation) | [Notebook](https://nbviewer.jupyter.org/github/MaartenGr/CustomerSegmentation/blob/master/Customer%20Segmentation.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) | [Medium](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)
 
 * Explored several methods for creating customer segments; k-Means (Cosine & Euclidean) vs. DBSCAN
 * Applied PCA and t-SNE for the 3 dimensional exploration of clusters
 * Used variance between averages of clusters per variable to detect important differences between clusters
 
 <img src="https://github.com/MaartenGr/CustomerSegmentation/blob/master/dbscan.gif" height="200"/>
+
+
+---
+<a name="featureengineering"/></a>
+###  [Exploring Advanced Feature Engineering Techniques](https://github.com/MaartenGr/feature-engineering)
+[Repository](https://github.com/MaartenGr/feature-engineering) | [Notebook](https://github.com/MaartenGr/feature-engineering/blob/master/Engineering%20Tips.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/feature-engineering/blob/master/Engineering%20Tips.ipynb) | [Medium](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
+
+* Several methods are described for advanced feature engineering including:
+  * Resampling Imbalanced Data using SMOTE
+  * Creating New Features with Deep Feature Synthesis
+  * Handling Missing Values with the Iterative Imputer and CatBoost
+  * Outlier Detection with IsolationForest
+
+<img src="https://github.com/MaartenGr/feature-engineering/blob/master/Images/feature.jpg" height="200"/>
 
 ---
 <a name="auction"/></a>
