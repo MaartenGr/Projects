@@ -9,6 +9,7 @@ This portfolio consists of several notebooks and projects illustrating the work 
    * [NLP: Analyzing WhatsApp Messages](#whatsapp)
    * [Optimizing Emté Routes](#emte)
    * [Exploring Explainable ML](#explainable)
+   * [Deploying a Machine Learning Model](#deploy)
    * [Cluster Analysis: Creating Customer Segments](#clustering)
    * [Predicting and Optimizing Auction Prices](#auction)
    * [Statistical Analysis using the Hurdle Model](#hurdle)
@@ -71,6 +72,14 @@ allowing for classification of documents
 
 <img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/occupation.png" width="70%"/>
 <img src="https://github.com/MaartenGr/InterpretableML/blob/master/Images/shap.PNG" width="70%"/>
+
+---
+<a name="deploy"/></a>
+###  [Deploying a Machine Learning Model](https://github.com/MaartenGr/ML-API)
+[Repository](https://github.com/MaartenGr/ML-API) | [Medium](https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf) 
+
+* Developed a set of steps necessary to quickly develop your machine learning model
+* The repository contains all code necessary (including dockerfile) and see the medium link for the full article
 
 ---
 <a name="clustering"/></a>
