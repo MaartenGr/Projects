@@ -7,6 +7,7 @@ This portfolio consists of several projects illustrating the work I have done in
 <!--ts-->
    * [Vectors of Locally Aggregated Concepts](#vlac)
    * [NLP: Analyzing WhatsApp Messages](#whatsapp)
+   * [Board Game Exploration](#boardgame)
    * [Optimizing Emté Routes](#emte)
    * [Exploring Explainable ML](#explainable)
    * [Deploying a Machine Learning Model](#deploy)
@@ -49,6 +50,20 @@ allowing for classification of documents
 * Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
   
 <img src="https://github.com/MaartenGr/soan/blob/master/portfolio_soan.jpg" height="200"/>
+
+---
+<a name="boardgame"/></a>
+###  [Board Game Exploration](https://powerful-everglades-61005.herokuapp.com/)
+[Github](https://github.com/MaartenGr/boardgame) | [site](https://powerful-everglades-61005.herokuapp.com/)
+
+* Created an application for exploring board game matches that I tracked over the last year
+* The application was created for two reasons: 
+  * First, I wanted to surprise my wife with this application as we played mostly together
+  * Second, the data is relatively simple (5 columns) and small (~300 rows) and I wanted
+  to demonstrate the possibilities of analyses with simple data
+* Dashboard was created with streamlit and the deployment of the application was through Heroku
+
+<img src="https://raw.githubusercontent.com/MaartenGr/boardgame/master/images/streamlit_gif_small.gif" height="200"/>
 
 ---
 <a name="emte"/></a>
