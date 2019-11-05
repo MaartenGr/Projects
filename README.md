@@ -63,7 +63,7 @@ allowing for classification of documents
   to demonstrate the possibilities of analyses with simple data
 * Dashboard was created with streamlit and the deployment of the application was through Heroku
 
-<img src="https://raw.githubusercontent.com/MaartenGr/boardgame/master/images/streamlit_gif_small.gif" height="300"/>
+<img src="https://raw.githubusercontent.com/MaartenGr/boardgame/master/images/streamlit_gif_small.gif" height="250"/>
 
 ---
 <a name="emte"/></a>
