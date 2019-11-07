@@ -53,8 +53,8 @@ allowing for classification of documents
 
 ---
 <a name="boardgame"/></a>
-###  [Board Game Exploration](https://powerful-everglades-61005.herokuapp.com/)
-[Github](https://github.com/MaartenGr/boardgame) | [site](https://powerful-everglades-61005.herokuapp.com/)
+###  [Board Game Exploration](https://bgexploration.herokuapp.com/)
+[Github](https://github.com/MaartenGr/boardgame) | [site](https://bgexploration.herokuapp.com/)
 
 * Created an application for exploring board game matches that I tracked over the last year
 * The application was created for two reasons: 
