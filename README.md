@@ -80,8 +80,8 @@ allowing for classification of documents
 
 ---
 <a name="explainable"/></a>
-###  [Exploring Explainable ML](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb)
-[Repository](https://github.com/MaartenGr/InterpretableML) | [Notebook](https://github.com/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/Interpretable%20ML.ipynb) |
+###  [Exploring Explainable ML](https://github.com/MaartenGr/InterpretableML/blob/master/InterpretableML.ipynb)
+[Repository](https://github.com/MaartenGr/InterpretableML) | [Notebook](https://github.com/MaartenGr/InterpretableML/blob/master/InterpretableML.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/MaartenGr/InterpretableML/blob/master/InterpretableML.ipynb) |
 [Medium](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b) 
 
 * Explored several methods for opening the black boxes that are tree-based prediction models
