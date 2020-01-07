@@ -11,6 +11,7 @@ This portfolio consists of several projects illustrating the work I have done in
    * [Optimizing Emté Routes](#emte)
    * [Exploring Explainable ML](#explainable)
    * [Deploying a Machine Learning Model](#deploy)
+   * [Retro Games Reinforcement Learning](#reinforcementlearning)
    * [Statistical Cross-Validation Techniques](#crossvalidation)
    * [Cluster Analysis: Creating Customer Segments](#clustering)
    * [Exploring Advanced Feature Engineering Techniques](#featureengineering)
@@ -99,6 +100,18 @@ allowing for classification of documents
 * The repository contains all code necessary (including dockerfile)
 
 <img src="https://github.com/MaartenGr/ML-API/blob/master/deploy.jpg" height="200"/>
+
+---
+
+<a name="reinforcementlearning"/></a>
+###  [CartPole Reinforcement Learning](https://github.com/MaartenGr/ReinforcementLearning)
+[Github](https://github.com/MaartenGr/ReinforcementLearning) | [Notebook](https://github.com/MaartenGr/ReinforcementLearning/blob/master/Reinforcement%20Learning.ipynb)
+
+* An overview of methods for creating state-of-the-art RL-algorithms
+* Makes use of Gym, Retro-gym, Procgen, and Stable-baselines
+* Associated article will added when published. 
+
+<img src="https://github.com/MaartenGr/ReinforcementLearning/blob/master/Images/procgen_small.gif" height="250"/>
 
 ---
 
