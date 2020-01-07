@@ -104,7 +104,7 @@ allowing for classification of documents
 ---
 
 <a name="reinforcementlearning"/></a>
-###  [CartPole Reinforcement Learning](https://github.com/MaartenGr/ReinforcementLearning)
+###  [Retro Games Reinforcement Learning](https://github.com/MaartenGr/ReinforcementLearning)
 [Github](https://github.com/MaartenGr/ReinforcementLearning) | [Notebook](https://github.com/MaartenGr/ReinforcementLearning/blob/master/Reinforcement%20Learning.ipynb)
 
 * An overview of methods for creating state-of-the-art RL-algorithms
