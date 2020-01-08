@@ -79,6 +79,7 @@ allowing for classification of documents
 * Methods: Integer Linear Programming, Tabu Search, Simmulated Annealing, Ant Colony Optimization, Python
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/emte.gif" height="200"/>
+
 ---
 <a name="pothole"/></a>
 ###  [Pothole Detection](https://github.com/MaartenGr/PotholeDetection)
