@@ -91,7 +91,7 @@ allowing for classification of documents
 * Unfreezing certain layers helps with fine tuning the model
 * Methods: Deep Learning, TF/Keras, EfficientNetB0
 
-<img src="https://github.com/MaartenGr/PotholeDetection/blob/master/Results/pothole_images.png" height="200"/>
+<img src="https://github.com/MaartenGr/PotholeDetection/blob/master/Results/pothole_images.png" height="250"/>
 
 ---
 <a name="explainable"/></a>
