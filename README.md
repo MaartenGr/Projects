@@ -9,6 +9,7 @@ This portfolio consists of several projects illustrating the work I have done in
    * [NLP: Analyzing WhatsApp Messages](#whatsapp)
    * [Board Game Exploration](#boardgame)
    * [Optimizing Emté Routes](#emte)
+   * [Pothole Detection](#pothole)
    * [Exploring Explainable ML](#explainable)
    * [Deploying a Machine Learning Model](#deploy)
    * [Retro Games Reinforcement Learning](#reinforcementlearning)
@@ -43,7 +44,7 @@ allowing for classification of documents
 ---
 <a name="whatsapp"/></a>
 ###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
-[Repository](https://github.com/MaartenGr/soan) | [Github](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
+[Repository](https://github.com/MaartenGr/soan) | [Notebook](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
 * Created a package that allows in-depth analyses on whatsapp conversations
 * Analyses were initially done on whatsapp messages between me and my fianciee to surprise her with on our wedding
@@ -78,6 +79,18 @@ allowing for classification of documents
 * Methods: Integer Linear Programming, Tabu Search, Simmulated Annealing, Ant Colony Optimization, Python
 
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/emte.gif" height="200"/>
+---
+<a name="pothole"/></a>
+###  [Pothole Detection](https://github.com/MaartenGr/PotholeDetection)
+[Repository](https://github.com/MaartenGr/PotholeDetection) | [Notebook](https://github.com/MaartenGr/PotholeDetection/blob/master/Pothole.ipynb)| [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/PotholeDetection/blob/master/Pothole.ipynb)
+
+* Image classification of potholes in roads
+* Explored different activation functions (Relu, Leaky Relu, Swish, Mish)
+* Used EfficientNetB0 and applied transfer learning to quickly get a high accuracy (> 95%)
+* Unfreezing certain layers helps with fine tuning the model
+* Methods: Deep Learning, TF/Keras, EfficientNetB0
+
+<img src="https://github.com/MaartenGr/PotholeDetection/blob/master/Results/pothole_images.png" height="200"/>
 
 ---
 <a name="explainable"/></a>
