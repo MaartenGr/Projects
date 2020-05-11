@@ -6,6 +6,7 @@ This portfolio consists of several projects illustrating the work I have done in
 ## Table of Contents  
 <!--ts-->
    * [Vectors of Locally Aggregated Concepts](#vlac)
+   * [Creating Artificial Life with Reinforcement Learning](#reinlife)
    * [NLP: Analyzing WhatsApp Messages](#whatsapp)
    * [Board Game Exploration](#boardgame)
    * [Optimizing Emté Routes](#emte)
@@ -40,6 +41,20 @@ allowing for classification of documents
 * The article was published in ECML-PKDD 2019
   
 <img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" height="200"/>
+
+---
+<a name="reinlife"/></a>
+###  [Creating Artificial Life with Reinforcement Learning](https://github.com/MaartenGr/ReinLife)
+[Repository](https://github.com/MaartenGr/ReinLife)
+
+* Using Reinforcement Learning, entities learn to survive, reproduce, and make sure to maximize the fitness of their kin. 
+* Implemented algorithms: DQN, PER-DQN, D3QN, PER-D3QN, and PPO
+
+<p float="left">
+  <img src="https://github.com/MaartenGr/ReinLife/blob/master/images/animation_medium.gif?raw=true" height="250"/>
+  <img src="https://github.com/MaartenGr/ReinLife/blob/master/images/instruction.png?raw=true" height="250"/>
+</p>
+
 
 ---
 <a name="whatsapp"/></a>
