@@ -20,6 +20,7 @@ This portfolio consists of several projects illustrating the work I have done in
    * [Predicting and Optimizing Auction Prices](#auction)
    * [Statistical Analysis using the Hurdle Model](#hurdle)
    * [Predict and optimize demand](#demand)
+   * [Statistically Generated Disney Tournament](#disney)
    * [Analyzing Google Takeout Data](#takeout)
    * [Cars Dashboard](#cars)
    * [Qwixx Visualization](#qwixx)
@@ -214,6 +215,17 @@ allowing for classification of documents
 * Methods: Regression (XGBoost, LightGBM and CatBoost), Bayesian Optimization (Skopt)
   
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" height="200"/>
+
+---
+<a name="disney"/></a>
+###  [Statistically Generated Disney Tournament](https://github.com/MaartenGr/DisneyTournament)
+[Github](https://github.com/MaartenGr/DisneyTournament) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/DisneyTournament/blob/master/src/Overview.ipynb)
+
+* Created a tournament game for a friend of mine
+* Tournament brackets are generated based on a seed score calculated through scraping data from IMDB and RottenTomatoes
+* Methods: BeautifulSoup
+  
+<img src="https://github.com/MaartenGr/DisneyTournament/blob/master/images/Unprotected/scoring.png" height="200"/>
 
 ---
 <a name="takeout"/></a>
