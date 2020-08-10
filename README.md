@@ -5,29 +5,32 @@ This portfolio consists of several projects illustrating the work I have done in
 
 ## Table of Contents  
 <!--ts-->
-   * [Vectors of Locally Aggregated Concepts](#vlac)
-   * [Creating Artificial Life with Reinforcement Learning](#reinlife)
-   * [NLP: Analyzing WhatsApp Messages](#whatsapp)
-   * [Board Game Exploration](#boardgame)
-   * [Optimizing Emté Routes](#emte)
-   * [Pothole Detection](#pothole)
-   * [Exploring Explainable ML](#explainable)
-   * [Deploying a Machine Learning Model](#deploy)
-   * [Retro Games Reinforcement Learning](#reinforcementlearning)
-   * [Statistical Cross-Validation Techniques](#crossvalidation)
-   * [Cluster Analysis: Creating Customer Segments](#clustering)
-   * [Exploring Advanced Feature Engineering Techniques](#featureengineering)
-   * [Predicting and Optimizing Auction Prices](#auction)
-   * [Statistical Analysis using the Hurdle Model](#hurdle)
-   * [Predict and optimize demand](#demand)
-   * [Statistically Generated Disney Tournament](#disney)
-   * [Analyzing Google Takeout Data](#takeout)
-   * [Cars Dashboard](#cars)
-   * [Qwixx Visualization](#qwixx)
-   * [Academic Journey Visualization](#grades)
-   * [Neural Style Transfer](#style)
-   * [Predicting Housing Prices](#housing)
-   * [Analyzing FitBit Data](#fitbit)
+
+| Project | Tags |
+| --- | --- |
+| [Vectors of Locally Aggregated Concepts](#vlac) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [Creating Artificial Life with Reinforcement Learning](#reinlife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [NLP: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Board Game Exploration](#boardgame) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Streamlit-purple"> <img src="https://img.shields.io/badge/-Heroku-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Optimizing Emté Routes](#emte) | <img src="https://img.shields.io/badge/-ILP-90A4AE"> <img src="https://img.shields.io/badge/-Simmulated%20Annealing-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Pothole Detection](#pothole) | <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Keras-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Exploring Explainable ML](#explainable) | <img src="https://img.shields.io/badge/-SHAP-81D4FA"> <img src="https://img.shields.io/badge/-LIME-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Deploying a Machine Learning Model](#deploy) | <img src="https://img.shields.io/badge/-Docker-90A4AE"> <img src="https://img.shields.io/badge/-FastAPI-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Retro Games Reinforcement Learning](#reinforcementlearning) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Statistical Cross-Validation Techniques](#crossvalidation) | <img src="https://img.shields.io/badge/-Wilcoxon-grey"> <img src="https://img.shields.io/badge/-McNemar-grey"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Cluster Analysis: Creating Customer Segments](#clustering) | <img src="https://img.shields.io/badge/-DBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Exploring Advanced Feature Engineering Techniques](#featureengineering) | <img src="https://img.shields.io/badge/-SMOTE-90A4AE"> <img src="https://img.shields.io/badge/-DFS-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Predicting and Optimizing Auction Prices](#auction) | <img src="https://img.shields.io/badge/-LightGBM-81D4FA"> <img src="https://img.shields.io/badge/-Genetic%20Algorithms-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Statistical Analysis using the Hurdle Model](#hurdle) | <img src="https://img.shields.io/badge/-Hurdle-grey"> <img src="https://img.shields.io/badge/-ZINB%20Regression-grey"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Predict and optimize demand](#demand) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Bayesian%20Optimization-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Statistically Generated Disney Tournament](#disney) | <img src="https://img.shields.io/badge/-Custom%20Statistic-grey"> <img src="https://img.shields.io/badge/-Scraping-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-R-blue"> |
+| [Analyzing Google Takeout Data](#takeout) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Cars Dashboard](#cars) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Dash-purple">  <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Qwixx Visualization](#qwixx) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Academic Journey Visualization](#grades) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Predicting Housing Prices](#housing) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Stacking-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Analyzing FitBit Data](#fitbit) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+
 <!--te-->
 
 ## Projects
