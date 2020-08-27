@@ -8,10 +8,12 @@ This portfolio consists of several projects illustrating the work I have done in
 
 | Project | Tags |
 | --- | --- |
-| [Vectors of Locally Aggregated Concepts](#vlac) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
-| [Creating Artificial Life with Reinforcement Learning](#reinlife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
-| [NLP: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [**VLAC**: Vectors of Locally Aggregated Concepts](#vlac) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [**ReinLife**: Artificial Life with Reinforcement Learning](#reinlife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [**SoAn**: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [**Reviewer**: Character Popularity](#reviewer) | <img src="https://img.shields.io/badge/-BERT-red"> <img src="https://img.shields.io/badge/-NER-red"> <img src="https://img.shields.io/badge/-Sentiment-red"> <img src="https://img.shields.io/badge/-Scraper-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Board Game Exploration](#boardgame) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Streamlit-purple"> <img src="https://img.shields.io/badge/-Heroku-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Statistically Generated Disney Tournament](#disney) | <img src="https://img.shields.io/badge/-Custom%20Statistic-grey"> <img src="https://img.shields.io/badge/-Scraping-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-R-blue"> |
 | [Optimizing Emté Routes](#emte) | <img src="https://img.shields.io/badge/-ILP-90A4AE"> <img src="https://img.shields.io/badge/-Simmulated%20Annealing-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Pothole Detection](#pothole) | <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Keras-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Exploring Explainable ML](#explainable) | <img src="https://img.shields.io/badge/-SHAP-81D4FA"> <img src="https://img.shields.io/badge/-LIME-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
@@ -23,7 +25,6 @@ This portfolio consists of several projects illustrating the work I have done in
 | [Predicting and Optimizing Auction Prices](#auction) | <img src="https://img.shields.io/badge/-LightGBM-81D4FA"> <img src="https://img.shields.io/badge/-Genetic%20Algorithms-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Statistical Analysis using the Hurdle Model](#hurdle) | <img src="https://img.shields.io/badge/-Hurdle-grey"> <img src="https://img.shields.io/badge/-ZINB%20Regression-grey"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Predict and optimize demand](#demand) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Bayesian%20Optimization-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
-| [Statistically Generated Disney Tournament](#disney) | <img src="https://img.shields.io/badge/-Custom%20Statistic-grey"> <img src="https://img.shields.io/badge/-Scraping-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-R-blue"> |
 | [Analyzing Google Takeout Data](#takeout) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Cars Dashboard](#cars) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Dash-purple">  <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Qwixx Visualization](#qwixx) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
@@ -36,7 +37,7 @@ This portfolio consists of several projects illustrating the work I have done in
 ## Projects
 
 <a name="vlac"/></a>
-###  [Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
+###  [VLAC: Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
 [Repository](https://github.com/MaartenGr/VLAC) | [Published Paper](https://www.ecmlpkdd2019.org/downloads/paper/489.pdf) 
 
 * It leverages clusters of word embeddings (i.e., concepts) to create features from a collection of documents
@@ -48,7 +49,7 @@ allowing for classification of documents
 
 ---
 <a name="reinlife"/></a>
-###  [Creating Artificial Life with Reinforcement Learning](https://github.com/MaartenGr/ReinLife)
+###  [ReinLife: Artificial Life with Reinforcement Learning](https://github.com/MaartenGr/ReinLife)
 [Repository](https://github.com/MaartenGr/ReinLife)
 
 * Using Reinforcement Learning, entities learn to survive, reproduce, and make sure to maximize the fitness of their kin. 
@@ -62,7 +63,7 @@ allowing for classification of documents
 
 ---
 <a name="whatsapp"/></a>
-###  [NLP: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan/blob/master/soan.ipynb)
+###  [SoAn: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan)
 [Repository](https://github.com/MaartenGr/soan) | [Notebook](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
 * Created a package that allows in-depth analyses on whatsapp conversations
@@ -70,7 +71,23 @@ allowing for classification of documents
 * Visualizations were done in such a way that it would make sense for someone not familiar with data science
 * Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
   
-<img src="https://github.com/MaartenGr/soan/blob/master/portfolio_soan.jpg" height="200"/>
+<img src="https://github.com/MaartenGr/soan/raw/master/images/portfolio_soan.jpg" height="200"/>
+
+---
+<a name="whatsapp"/></a>
+###  [Reviewer: Character Popularity](https://github.com/MaartenGr/Reviewer)
+[Repository](https://github.com/MaartenGr/Reviewer) | [Notebook](https://github.com/MaartenGr/Reviewer/blob/master/notebooks/Overview.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Reviewer/blob/master/notebooks/Overview.ipynb)
+
+**Reviewer** can be used to scrape user reviews from IMDB, generate word clouds based on a custom class-based TF-IDF, and extract popular characters/actors from reviews.
+Methods:
+* Named Entity Recognition
+* Sentiment Analysis
+* Scraper
+* BERT
+  
+<p align="center">
+<img src="https://github.com/MaartenGr/Reviewer/raw/master/images/wordclouds/result_0.png" height="200"/>
+</p>
 
 ---
 <a name="boardgame"/></a>
@@ -85,6 +102,18 @@ allowing for classification of documents
 * Dashboard was created with streamlit and the deployment of the application was through Heroku
 
 <img src="https://raw.githubusercontent.com/MaartenGr/boardgame/master/images/streamlit_gif_small.gif" height="250"/>
+
+---
+
+<a name="disney"/></a>
+###  [Statistically Generated Disney Tournament](https://github.com/MaartenGr/DisneyTournament)
+[Github](https://github.com/MaartenGr/DisneyTournament) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/DisneyTournament/blob/master/src/Overview.ipynb)
+
+* Created a tournament game for a friend of mine
+* Tournament brackets are generated based on a seed score calculated through scraping data from IMDB and RottenTomatoes
+* Methods: BeautifulSoup
+  
+<img src="https://github.com/MaartenGr/DisneyTournament/blob/master/images/Unprotected/scoring.png" height="200"/>
 
 ---
 <a name="emte"/></a>
@@ -218,17 +247,6 @@ allowing for classification of documents
 * Methods: Regression (XGBoost, LightGBM and CatBoost), Bayesian Optimization (Skopt)
   
 <img src="https://github.com/MaartenGr/Projects/blob/master/Images/simulation.png" height="200"/>
-
----
-<a name="disney"/></a>
-###  [Statistically Generated Disney Tournament](https://github.com/MaartenGr/DisneyTournament)
-[Github](https://github.com/MaartenGr/DisneyTournament) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/DisneyTournament/blob/master/src/Overview.ipynb)
-
-* Created a tournament game for a friend of mine
-* Tournament brackets are generated based on a seed score calculated through scraping data from IMDB and RottenTomatoes
-* Methods: BeautifulSoup
-  
-<img src="https://github.com/MaartenGr/DisneyTournament/blob/master/images/Unprotected/scoring.png" height="200"/>
 
 ---
 <a name="takeout"/></a>
