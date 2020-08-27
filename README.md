@@ -74,7 +74,7 @@ allowing for classification of documents
 <img src="https://github.com/MaartenGr/soan/raw/master/images/portfolio_soan.jpg" height="200"/>
 
 ---
-<a name="whatsapp"/></a>
+<a name="reviewer"/></a>
 ###  [Reviewer: Character Popularity](https://github.com/MaartenGr/Reviewer)
 [Repository](https://github.com/MaartenGr/Reviewer) | [Notebook](https://github.com/MaartenGr/Reviewer/blob/master/notebooks/Overview.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/Reviewer/blob/master/notebooks/Overview.ipynb)
 
