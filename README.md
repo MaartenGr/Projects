@@ -37,7 +37,7 @@ This portfolio consists of several projects illustrating the work I have done in
 ## Projects
 
 <a name="vlac"/></a>
-###  [VLAC: Vectors of Locally Aggregated Concepts (VLAC)](https://github.com/MaartenGr/VLAC)
+###  [VLAC: Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC)
 [Repository](https://github.com/MaartenGr/VLAC) | [Published Paper](https://www.ecmlpkdd2019.org/downloads/paper/489.pdf) 
 
 * It leverages clusters of word embeddings (i.e., concepts) to create features from a collection of documents
