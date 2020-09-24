@@ -9,6 +9,7 @@ This portfolio consists of several projects illustrating the work I have done in
 | Project | Tags |
 | --- | --- |
 | [**VLAC**: Vectors of Locally Aggregated Concepts](#vlac) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [**BERTopic**: Topic Modeling with BERT](#bertopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [**ReinLife**: Artificial Life with Reinforcement Learning](#reinlife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**SoAn**: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Reviewer**: Character Popularity](#reviewer) | <img src="https://img.shields.io/badge/-BERT-red"> <img src="https://img.shields.io/badge/-NER-red"> <img src="https://img.shields.io/badge/-Sentiment-red"> <img src="https://img.shields.io/badge/-Scraper-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
@@ -46,6 +47,16 @@ allowing for classification of documents
 * The article was published in ECML-PKDD 2019
   
 <img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" height="200"/>
+
+---
+
+<a name="bertopic"/></a>
+###  [BERTopic: Topic Modeling with BERT](https://github.com/MaartenGr/BERTopic)
+[Repository](https://github.com/MaartenGr/BERTopic) | [PyPi](https://pypi.org/project/bertopic/) 
+
+BERTopic is a novel topic modeling technique that leverages BERT embeddings and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
+  
+<img src="https://github.com/MaartenGr/BERTopic/blob/master/images/clusters.png" height="200"/>
 
 ---
 <a name="reinlife"/></a>
