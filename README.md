@@ -12,6 +12,7 @@ This portfolio consists of several projects illustrating the work I have done in
 | [**BERTopic**: Topic Modeling with BERT](#bertopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [**ReinLife**: Artificial Life with Reinforcement Learning](#reinlife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**SoAn**: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [**c-TF-IDF**: Class-based TF-IDF](#ctfidf) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Feature%20Extraction-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Reviewer**: Character Popularity](#reviewer) | <img src="https://img.shields.io/badge/-BERT-red"> <img src="https://img.shields.io/badge/-NER-red"> <img src="https://img.shields.io/badge/-Sentiment-red"> <img src="https://img.shields.io/badge/-Scraper-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Board Game Exploration](#boardgame) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Streamlit-purple"> <img src="https://img.shields.io/badge/-Heroku-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Statistically Generated Disney Tournament](#disney) | <img src="https://img.shields.io/badge/-Custom%20Statistic-grey"> <img src="https://img.shields.io/badge/-Scraping-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-R-blue"> |
@@ -83,6 +84,19 @@ BERTopic is a novel topic modeling technique that leverages BERT embeddings and 
 * Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
   
 <img src="https://github.com/MaartenGr/soan/raw/master/images/portfolio_soan.jpg" height="200"/>
+
+---
+<a name="ctfidf"/></a>
+###  [c-TF-IDF: Class-based TF-IDF](https://github.com/MaartenGr/cTFIDF)
+[Repository](https://github.com/MaartenGr/cTFIDF) 
+
+* Created an algorithm allowing for TF-IDF to work on a class-level
+* Thereby creating categorical vectors that can be used for: 
+  * *Informative Words per Class*: Which words make a class stand-out compared to all others?
+  * *Class Reduction*: Using c-TF-IDF to reduce the number of classes
+  * *Semi-supervised Modeling*: Predicting the class of unseen documents using only cosine similarity and c-TF-IDF
+  
+<img src="https://raw.githubusercontent.com/MaartenGr/cTFIDF/master/images/ctfidf.png" height="100"/>
 
 ---
 <a name="reviewer"/></a>
