@@ -14,6 +14,7 @@ This portfolio consists of several projects illustrating the work I have done in
 | [**SoAn**: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**c-TF-IDF**: Class-based TF-IDF](#ctfidf) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Feature%20Extraction-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Reviewer**: Character Popularity](#reviewer) | <img src="https://img.shields.io/badge/-BERT-red"> <img src="https://img.shields.io/badge/-NER-red"> <img src="https://img.shields.io/badge/-Sentiment-red"> <img src="https://img.shields.io/badge/-Scraper-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [**KeyBERT**: Keyword Extraction with BERT](#keybert) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-MMR-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [Board Game Exploration](#boardgame) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Streamlit-purple"> <img src="https://img.shields.io/badge/-Heroku-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Statistically Generated Disney Tournament](#disney) | <img src="https://img.shields.io/badge/-Custom%20Statistic-grey"> <img src="https://img.shields.io/badge/-Scraping-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-R-blue"> |
 | [Optimizing Emté Routes](#emte) | <img src="https://img.shields.io/badge/-ILP-90A4AE"> <img src="https://img.shields.io/badge/-Simmulated%20Annealing-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
@@ -115,6 +116,17 @@ Methods:
 </p>
 
 ---
+
+<a name="keybert"/></a>
+###  [KeyBERT: Keyword Extraction with BERT](https://github.com/MaartenGr/KeyBERT)
+[Repository](https://github.com/MaartenGr/KeyBERT) | [PyPi](https://pypi.org/project/keybert/) 
+
+KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
+  
+<img src="https://raw.githubusercontent.com/MaartenGr/KeyBERT/master/images/logo.png" height="150"/>
+
+---
+
 <a name="boardgame"/></a>
 ###  [Board Game Exploration](https://bgexploration.herokuapp.com/)
 [Github](https://github.com/MaartenGr/boardgame) | [site](https://bgexploration.herokuapp.com/)
@@ -196,7 +208,6 @@ Methods:
 
 * An overview of methods for creating state-of-the-art RL-algorithms
 * Makes use of Gym, Retro-gym, Procgen, and Stable-baselines
-* Associated article will added when published. 
 
 <img src="https://github.com/MaartenGr/ReinforcementLearning/blob/master/Images/procgen_small.gif" height="250"/>
 
