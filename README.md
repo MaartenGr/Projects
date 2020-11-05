@@ -8,13 +8,13 @@ This portfolio consists of several projects illustrating the work I have done in
 
 | Project | Tags |
 | --- | --- |
-| [**VLAC**: Vectors of Locally Aggregated Concepts](#vlac) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
-| [**BERTopic**: Topic Modeling with BERT](#bertopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [**BERTopic**: Topic Modeling with BERT](#bertopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/BERTopic?style=social">|
+| [**KeyBERT**: Keyword Extraction with BERT](#keybert) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-MMR-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/KeyBERT?style=social">|
+| [**SoAn**: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/soan?style=social"> |
 | [**ReinLife**: Artificial Life with Reinforcement Learning](#reinlife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
-| [**SoAn**: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [**VLAC**: Vectors of Locally Aggregated Concepts](#vlac) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [**c-TF-IDF**: Class-based TF-IDF](#ctfidf) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Feature%20Extraction-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Reviewer**: Character Popularity](#reviewer) | <img src="https://img.shields.io/badge/-BERT-red"> <img src="https://img.shields.io/badge/-NER-red"> <img src="https://img.shields.io/badge/-Sentiment-red"> <img src="https://img.shields.io/badge/-Scraper-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
-| [**KeyBERT**: Keyword Extraction with BERT](#keybert) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-MMR-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [Board Game Exploration](#boardgame) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Streamlit-purple"> <img src="https://img.shields.io/badge/-Heroku-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Statistically Generated Disney Tournament](#disney) | <img src="https://img.shields.io/badge/-Custom%20Statistic-grey"> <img src="https://img.shields.io/badge/-Scraping-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-R-blue"> |
 | [Optimizing Emté Routes](#emte) | <img src="https://img.shields.io/badge/-ILP-90A4AE"> <img src="https://img.shields.io/badge/-Simmulated%20Annealing-90A4AE"> <img src="https://img.shields.io/badge/-Python-blue"> |
@@ -39,19 +39,6 @@ This portfolio consists of several projects illustrating the work I have done in
 
 ## Projects
 
-<a name="vlac"/></a>
-###  [VLAC: Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC)
-[Repository](https://github.com/MaartenGr/VLAC) | [Published Paper](https://www.ecmlpkdd2019.org/downloads/paper/489.pdf) 
-
-* It leverages clusters of word embeddings (i.e., concepts) to create features from a collection of documents
-allowing for classification of documents
-* Inspiration was drawn from VLAD, which is a feature generation method for image classification
-* The article was published in ECML-PKDD 2019
-  
-<img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" height="200"/>
-
----
-
 <a name="bertopic"/></a>
 ###  [BERTopic: Topic Modeling with BERT](https://github.com/MaartenGr/BERTopic)
 [Repository](https://github.com/MaartenGr/BERTopic) | [PyPi](https://pypi.org/project/bertopic/) 
@@ -61,6 +48,30 @@ BERTopic is a novel topic modeling technique that leverages BERT embeddings and 
 <img src="https://github.com/MaartenGr/BERTopic/blob/master/images/clusters.png" height="200"/>
 
 ---
+
+<a name="keybert"/></a>
+###  [KeyBERT: Keyword Extraction with BERT](https://github.com/MaartenGr/KeyBERT)
+[Repository](https://github.com/MaartenGr/KeyBERT) | [PyPi](https://pypi.org/project/keybert/) 
+
+KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
+  
+<img src="https://raw.githubusercontent.com/MaartenGr/KeyBERT/master/images/logo.png" height="150"/>
+
+---
+
+<a name="whatsapp"/></a>
+###  [SoAn: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan)
+[Repository](https://github.com/MaartenGr/soan) | [Notebook](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
+
+* Created a package that allows in-depth analyses on whatsapp conversations
+* Analyses were initially done on whatsapp messages between me and my fianciee to surprise her with on our wedding
+* Visualizations were done in such a way that it would make sense for someone not familiar with data science
+* Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
+  
+<img src="https://github.com/MaartenGr/soan/raw/master/images/portfolio_soan.jpg" height="200"/>
+
+---
+
 <a name="reinlife"/></a>
 ###  [ReinLife: Artificial Life with Reinforcement Learning](https://github.com/MaartenGr/ReinLife)
 [Repository](https://github.com/MaartenGr/ReinLife)
@@ -75,18 +86,20 @@ BERTopic is a novel topic modeling technique that leverages BERT embeddings and 
 
 
 ---
-<a name="whatsapp"/></a>
-###  [SoAn: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan)
-[Repository](https://github.com/MaartenGr/soan) | [Notebook](https://github.com/MaartenGr/soan/blob/master/soan.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/soan/blob/master/soan.ipynb)
 
-* Created a package that allows in-depth analyses on whatsapp conversations
-* Analyses were initially done on whatsapp messages between me and my fianciee to surprise her with on our wedding
-* Visualizations were done in such a way that it would make sense for someone not familiar with data science
-* Methods: Sentiment Analysis, TF-IDF, Topic Modeling, Wordclouds, etc.
+<a name="vlac"/></a>
+###  [VLAC: Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC)
+[Repository](https://github.com/MaartenGr/VLAC) | [Published Paper](https://www.ecmlpkdd2019.org/downloads/paper/489.pdf) 
+
+* It leverages clusters of word embeddings (i.e., concepts) to create features from a collection of documents
+allowing for classification of documents
+* Inspiration was drawn from VLAD, which is a feature generation method for image classification
+* The article was published in ECML-PKDD 2019
   
-<img src="https://github.com/MaartenGr/soan/raw/master/images/portfolio_soan.jpg" height="200"/>
+<img src="https://github.com/MaartenGr/VLAC/blob/master/Images/vlac.png" height="200"/>
 
 ---
+
 <a name="ctfidf"/></a>
 ###  [c-TF-IDF: Class-based TF-IDF](https://github.com/MaartenGr/cTFIDF)
 [Repository](https://github.com/MaartenGr/cTFIDF) 
@@ -117,15 +130,7 @@ Methods:
 
 ---
 
-<a name="keybert"/></a>
-###  [KeyBERT: Keyword Extraction with BERT](https://github.com/MaartenGr/KeyBERT)
-[Repository](https://github.com/MaartenGr/KeyBERT) | [PyPi](https://pypi.org/project/keybert/) 
 
-KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
-  
-<img src="https://raw.githubusercontent.com/MaartenGr/KeyBERT/master/images/logo.png" height="150"/>
-
----
 
 <a name="boardgame"/></a>
 ###  [Board Game Exploration](https://bgexploration.herokuapp.com/)
