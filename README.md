@@ -10,6 +10,7 @@ This portfolio consists of several projects illustrating the work I have done in
 | --- | --- |
 | [**BERTopic**: Topic Modeling with BERT](#bertopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/BERTopic?style=social">|
 | [**KeyBERT**: Keyword Extraction with BERT](#keybert) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-MMR-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/KeyBERT?style=social">|
+| [**PolyFuzz**: A framework for Fuzzy String Matching](#polyfuzz) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Edit%20Distance-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/PolyFuzz?style=social">|
 | [**SoAn**: Analyzing WhatsApp Messages](#whatsapp) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/soan?style=social"> |
 | [**ReinLife**: Artificial Life with Reinforcement Learning](#reinlife) | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-green"> <img src="https://img.shields.io/badge/-Deep%20Learning-yellow"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**VLAC**: Vectors of Locally Aggregated Concepts](#vlac) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
@@ -43,7 +44,7 @@ This portfolio consists of several projects illustrating the work I have done in
 ###  [BERTopic: Topic Modeling with BERT](https://github.com/MaartenGr/BERTopic)
 [Repository](https://github.com/MaartenGr/BERTopic) | [PyPi](https://pypi.org/project/bertopic/) 
 
-BERTopic is a novel topic modeling technique that leverages BERT embeddings and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
+**`BERTopic`** is a novel topic modeling technique that leverages BERT embeddings and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
   
 <img src="https://github.com/MaartenGr/BERTopic/blob/master/images/clusters.png" height="200"/>
 
@@ -53,9 +54,19 @@ BERTopic is a novel topic modeling technique that leverages BERT embeddings and 
 ###  [KeyBERT: Keyword Extraction with BERT](https://github.com/MaartenGr/KeyBERT)
 [Repository](https://github.com/MaartenGr/KeyBERT) | [PyPi](https://pypi.org/project/keybert/) 
 
-KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
+**`KeyBERT`** is a minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
   
 <img src="https://raw.githubusercontent.com/MaartenGr/KeyBERT/master/images/logo.png" height="150"/>
+
+---
+
+<a name="polyfuzz"/></a>
+###  [PolyFuzz: A framework for Fuzzy String Matching](https://github.com/MaartenGr/PolyFuzz)
+[Repository](https://github.com/MaartenGr/PolyFuzz) | [PyPi](https://pypi.org/project/polyfuzz/) 
+
+**`PolyFuzz`** performs fuzzy string matching, string grouping, and contains extensive evaluation functions. PolyFuzz is meant to bring fuzzy string matching techniques together within a single framework.
+  
+<img src="https://raw.githubusercontent.com/MaartenGr/PolyFuzz/master/images/logo.png" height="150"/>
 
 ---
 
